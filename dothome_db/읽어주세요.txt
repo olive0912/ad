@@ -1,0 +1,4 @@
+Login2.php(로그인을 위한 php 파일)
+Register2.php(회원가입을 위한 php 파일)
+UserValidate.php(아이디 중복체크를 위한 php 파일)
+
